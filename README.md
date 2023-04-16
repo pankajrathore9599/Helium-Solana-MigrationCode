@@ -10,7 +10,7 @@ This repo provides several helpful scripts, including:
 - Claiming rewards for single or multiple entities.
 
 **Setup Environment**
-These scripts are written using TypeScript. Please set up your environment accordingly and update the `.env.ts` file with your credentials.
+These scripts are written using TypeScript. Please set up your environment accordingly and update the `env.ts` file with your credentials.
 
 **Stay updated with the latest tech news! Subscribe to my YouTube channel!**
 https://www.youtube.com/@codeyourmoney/featured
